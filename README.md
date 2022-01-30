@@ -5,13 +5,13 @@
 ## Popular Sites to Job Hunt
 
 - AngelList: https://angel.co
-- Mashable: http://jobs.mashable.com/jobs
-- StackOverflow: http://stackoverflow.com/jobs
-- LinkedIn: http://linkedIn.com
-- Glassdoor: http://glassdoor.com
-- Dice: http://dice.com
-- Monster: http://monster.com
-- Simply Hired: http://simplyhired.com
+- Mashable: https://jobs.mashable.com/jobs
+- StackOverflow: https://stackoverflow.com/jobs
+- LinkedIn: https://linkedIn.com
+- Glassdoor: https://glassdoor.com
+- Dice: https://dice.com
+- Monster: https://monster.com
+- Simply Hired: https://simplyhired.com
 - Toptal: https://toptal.com
 - Hired: https://hired.com
 - The Ladders: https://www.theladders.com/
@@ -19,20 +19,20 @@
 
 ## Remote Sites
 
-- RemoteOk: http://remoteok.io/
-- Stackoverflow: http://stackoverflow.com/jobs/remote-developer-jobs
-- FlexJobs: http://flexjobs.com
-- WeWorkRemotely: http://weworkremotely.com
-- Working Nomads: http://workingnomads.co/remote-development-jobs
+- RemoteOk: https://remoteok.io/
+- Stackoverflow: https://stackoverflow.com/jobs/remote-developer-jobs
+- FlexJobs: https://flexjobs.com
+- WeWorkRemotely: https://weworkremotely.com
+- Working Nomads: https://workingnomads.co/remote-development-jobs
 - Remote.co: https://remote.co/remote-jobs/developer/
-- Remoters: http://remoters.net/jobs/software-development
-- JS Remotely: http://jsremotely.com
-- Front-end remote: http://frontendremotejobs.com
+- Remoters: https://remoters.net/jobs/software-development
+- JS Remotely: https://jsremotely.com
+- Front-end remote: https://frontendremotejobs.com
 - DailyRemote: https://dailyremote.com
 - Remotive: https://remotive.io/remote-jobs/software-dev
-- Outsourcely: http://outsourcely.com/remote-web-development-jobs
+- Outsourcely: https://outsourcely.com/remote-web-development-jobs
 - Pangian: https://pangian.com/job-travel-remote
-- Remote Talent: http://remotetalent.co/jobs
+- Remote Talent: https://remotetalent.co/jobs
 - JustRemote: https://justremote.co/remote-developer-jobs
 - RemoteLeaf: https://remoteleaf.com
 - Sitepoint: https://sitepoint.com/jobs/
@@ -41,30 +41,30 @@
 ## Startups
 
 - AngelList: https://angel.co/jobs
-- Product Hunt: http://producthunt.com/jobs
-- Startup Hire: http://startuphire.com
+- Product Hunt: https://producthunt.com/jobs
+- Startup Hire: https://startuphire.com
 - Startup Jobs: https://startup.jobs
-- Startupers: http://startupers.com
-- YCombinator: http://news.ycombinator.com/jobs
+- Startupers: https://startupers.com
+- YCombinator: https://news.ycombinator.com/jobs
 
 ## JavaScript
 
-- JavaScript job XYZ: http://javascriptjob.xyz
+- JavaScript job XYZ: https://javascriptjob.xyz
 - JsJobbs: https://jsjobbs.com
 
 ## Mobile Job Postings
 
-- iOS dev jobs: http://iosdevjobs.com
+- iOS dev jobs: https://iosdevjobs.com
 - Android Jobs: https://www.androidjobs.io/
 
 ## React
 
-- React Job Board: http://reactjobboard.com
+- React Job Board: https://reactjobboard.com
 - React Jobs: https://reactjsjob.com
 
 ## Vue
 
-- Vue Jobs: http://vuejobs.com
+- Vue Jobs: https://vuejobs.com
 
 ## Laravel
 
@@ -72,14 +72,14 @@
 
 ## Ember
 
-- Ember: http://jobs.emberjs.com
+- Ember: https://jobs.emberjs.com
 - EmberJs: https://discuss.emberjs.com/c/job-postings/9
 - Emberwork: https://emberwork.com/offers
 
 ## Python
 
-- Python Jobs: http://python.org/jobs
-- Python Developer Jobs: http://pythonjob.xyz
+- Python Jobs: https://python.org/jobs
+- Python Developer Jobs: https://pythonjob.xyz
 
 ## Golang
 
@@ -90,12 +90,12 @@
 
 ## Junior Dev Jobs
 
-- JrDevJobs: http://jrdevjobs.com
+- JrDevJobs: https://jrdevjobs.com
 - Stackoverflow Junior jobs: https://stackoverflow.com/jobs/junior-developer-jobs
 
 ## Women focused job boards!
 
-- Women Who Code: http://womenwhocode.com/jobs
+- Women Who Code: https://womenwhocode.com/jobs
 - Tech Ladies: https://hiretechladies.com
 - PowerToFly: https://powertofly.com/jobs/
 
@@ -110,12 +110,12 @@
 
 ## Freelancing Jobs
 
-- Freelancer: http://freelancer.com/jobs
-- Upwork: http://upwork.com
-- FlexJobs: http://flexjobs.com/jobs
-- FreelancerMap: http://freelancermap.com
-- Gun.io: http://gun.io
-- Guru: http://guru.com/d/jobs
+- Freelancer: https://freelancer.com/jobs
+- Upwork: https://upwork.com
+- FlexJobs: https://flexjobs.com/jobs
+- FreelancerMap: https://freelancermap.com
+- Gun.io: https://gun.io
+- Guru: https://guru.com/d/jobs
 - PeoplePerHour: https://www.peopleperhour.com
 - Pilot: https://pilot.co
 - Scalable Path https://www.scalablepath.com/
@@ -123,17 +123,17 @@
 
 ## Misc
 
-- Muse: http://themuse.com/jobs
-- Tuts+: http://jobs.tutsplus.com
-- Krop: http://krop.com
-- PowerToFly: http://powertofly.com/jobs
-- Developers for Hire: http://developersforhire.com
+- Muse: https://themuse.com/jobs
+- Tuts+: https://jobs.tutsplus.com
+- Krop: https://krop.com
+- PowerToFly: https://powertofly.com/jobs
+- Developers for Hire: https://developersforhire.com
 - Codepen job board: https://codepen.io/jobs
-- Joblist.app: http://joblist.app
-- Fullstack Job: http://fullstackjob.com
-- Authentic jobs: http://authenticjobs.com
-- Jobspresso: http://jobspresso.co
-- Jobs in Europe: http://landing.jobs
+- Joblist.app: https://joblist.app
+- Fullstack Job: https://fullstackjob.com
+- Authentic jobs: https://authenticjobs.com
+- Jobspresso: https://jobspresso.co
+- Jobs in Europe: https://landing.jobs
 - TripleByte: https://triplebyte.com
 - Profunctor: https://profunctor.io
 - SwissDev Jobs: https://swissdevjobs.ch
